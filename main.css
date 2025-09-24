@@ -5,7 +5,7 @@ body {
 }
 
 body {
-    background-image: url('image/bgmain.jpeg');
+    background-image: url('bgmain.jpeg');
 
 
 }
@@ -20,7 +20,7 @@ header {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url('image/bg.png');
+    background-image: url('bg.png');
     background-position: center center;
     background-size: auto 100%;
     background-repeat: no-repeat;
@@ -113,7 +113,7 @@ header {
 }
 
 .ballon1 {
-    background-image: url('image/balloon.png');
+    background-image: url('balloon.png');
     background-size: contain;
     /* fit the balloon */
     background-repeat: no-repeat;
@@ -132,7 +132,7 @@ header {
 }
 
 .ballon2 {
-    background-image: url('image/balloon.png');
+    background-image: url('balloon.png');
     background-size: contain;
     /* fit the balloon */
     background-repeat: no-repeat;
@@ -151,7 +151,7 @@ header {
 }
 
 .cake {
-    background-image: url('image/cake.png');
+    background-image: url('cake.png');
     background-size: contain;
     background-repeat: no-repeat;
     width: 150px;
@@ -165,7 +165,7 @@ header {
 }
 
 .flower {
-    background-image: url('image/flower.png');
+    background-image: url('flower.png');
     background-size: contain;
     background-repeat: no-repeat;
     width: 150px;

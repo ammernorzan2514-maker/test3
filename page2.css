@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     
-    background-image: url('image/bgpage2.jpeg');
+    background-image: url('bgpage2.jpeg');
     background-size: cover;
         /* gambar penuh skrin */
         background-repeat: no-repeat;
